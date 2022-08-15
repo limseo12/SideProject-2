@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+   <body>
+      <form action="/test_test" method="GET">
+         <p>track : <input type="text" name="track" /></p>
+      </form>
+      {% for track in toptrack_results %}
+      <p>{{ track }}</p>
+      {% endfor %}
+   </body>
+</html>

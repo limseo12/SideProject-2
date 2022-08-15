@@ -1,0 +1,21 @@
+
+WHERE_YOU_ARE =  "pwd"
+
+MAKE_DIRECTORY =  "mkdir Section3"
+
+CHANGE_DIRECTORY = "cd Section3"
+
+CLONE_REPOSITORY = "git clone clone https://github.com/limseo12/ds-sa-simple-git-flow.git'"
+
+MAKE_VIRTUAL_ENV =  "conda create --name s1n1 python=3.8"
+
+ACTIVATE_VIRTUAL_ENV =  "conda activate s1n1"
+
+VIRTUAL_ENV_LIST =  "conda env list"
+ADD_TO_STAGING_AREA =  "git add ."
+
+CHECK_AREA_STATEMENT =  "git status"
+
+COMMIT_TO_REPO =  "git commit -m 'Part3 commit'"
+
+PUSH_TO_REMOTE =  "git push origin main"
