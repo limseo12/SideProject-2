@@ -1,2 +1,7 @@
-mongodbbase start.
-toptrack.py no start
+mongodbbase.py 에서 실행시킨다.
+toptrack 는 실행시키지 않는다.
+
+추가해야 할 것1 = 대시보드 잘 꾸미기
+추가해야 할 것2 = flask 첫 페이지에서 아티스트 선택 한 뒤 버튼 누르면 mongodb에 자동저장 되며 2번째 페이지로이동 , 그 뒤 대시보드로 내가 추천받은 모든 음악리스트 띄우기 
+option1 = 머신러닝 추천 모델 만들어 pickle로 연동.(이 때 모델은 내가 검색했던 artist 데이터를 모아 추천한다.)
+option2 =  heroku로 배포하기

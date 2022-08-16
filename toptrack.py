@@ -42,7 +42,7 @@ def main():
             print('cover art: ' + track['album']['images'][0]['url'])
             print()
 
-        print(toptrack_results)
+        #print(toptrack_results)
 
     except:
         ## 애러메세지를 로깅처리
