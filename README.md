@@ -4,7 +4,7 @@
 그뒤 웹사이트 두번째 페이지에 미리듣기, 앨범트랙등 URL주소가 뜨게 되면 접속하여 미리듣기, 앨범자켓 확인등을 할 수 있습니다.
 그 뒤 탑 10트랙의 정보는 몽고DB의 로컬데이터베이스에 저장이 되어 언제든지 확인할 수 있습니다.
 
-사용된 것 : flask, MongoDB,PyMongo SpotifyAPI
+사용된 것 : flask, MongoDB,PyMongo, SpotifyAPI
 
 사용법 : mongodbbase.py 에서 실행시킨다.
          toptrack 는 실행시키지 않는다.
