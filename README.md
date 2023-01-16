@@ -6,8 +6,8 @@
 
 사용된 것 : flask, MongoDB, SpotifyAPI
 
-mongodbbase.py 에서 실행시킨다.
-toptrack 는 실행시키지 않는다.
+사용법 : mongodbbase.py 에서 실행시킨다.
+         toptrack 는 실행시키지 않는다.
 
 수정했으면 하는 것 = 프론트앤드 부분
 option1 = 머신러닝 추천 모델 만들어 데이터베이스에 저장된 나의 artist 리스트를 기반으로 추천.
